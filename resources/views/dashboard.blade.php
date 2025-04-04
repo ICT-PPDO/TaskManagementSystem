@@ -4,7 +4,7 @@
 @endsection
 @section('content')
     <div class="container">
-        <h2>Welcome to your Fucking Error</h2>
+        <h2>Welcome to your blog</h2>
         <p>This is your dashboard where you can manage your tasks, routines, notes, and files.</p>
         
         <div class="row mb-4">
