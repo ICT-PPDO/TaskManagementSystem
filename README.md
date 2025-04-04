@@ -23,7 +23,7 @@ Task Manager is an open-source Laravel application designed to simplify the proc
 
 ### Step 1: Clone the Repository
 ```
-git clone https://github.com/arafat-web/Task-Manager.git
+git clone https://github.com/ICT-PPDO/TaskManagementSystem.git
 cd Task-Manager
 ```
 
@@ -92,16 +92,4 @@ Task Manager allows users to efficiently manage projects and tasks through a use
 <img src="https://github.com/arafat-web/Task-Manager/assets/26932301/8795129a-69e5-4911-bb26-caae3bca50be" alt="Demo">
 <img src="https://github.com/arafat-web/Task-Manager/assets/26932301/bd96fa3c-7f43-4ab7-8aa1-4614629d9d26" alt="Demo">
 
-## Contributing
-For any issues or inquiries, please open an issue on the [Issues](https://github.com/arafat-web/Task-Manager/issues).<br/>
-If you can help me by contributing. Please don't hesitate to open a [Pull Request](https://github.com/arafat-web/Task-Manager/pulls).<br/>
-🎉 **Thanks for reading!** 🌟  
 
-
-
-### Contact Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafat.122260@gmail.com)
-[![Facbook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arafathossain000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arafat-hossain-ar-a174b51a6/)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/4703319)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://arafatdev.com)
