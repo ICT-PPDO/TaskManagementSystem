@@ -114,11 +114,11 @@
         <ul class="nav flex-column">
             <li class="nav-item">
                 <a class="nav-link {{ request()->is('/') ? 'active' : '' }}" href="{{ route('dashboard') }}">
-                    <i class="bi bi-house-door"></i> Home
+                    <i class="bi bi-house-door"></i> Home Sweet Home
                 </a>
             </li>
             {{-- <li class="nav-item">
-                <a class="nav-link {{ request()->is('mail*') ? 'active' : '' }}" href="{{ route('mail.inbox') }}">
+             <a class="nav-link {{ request()->is('mail*') ? 'active' : '' }}" href="{{ route('mail.inbox') }}">
                     <i class="bi bi-inbox"></i> Inbox
                 </a>
             </li> --}}
@@ -196,8 +196,8 @@
         </main>
         <footer class="mt-auto py-3 text-center">
             <div class="container">
-                <span class="text-muted">&copy; {{ date('Y') }} Task Manager | Developed by <a
-                        href="https://github.com/arafat-web" target="_blank">Arafat Hossain Ar</a> </span>
+                <span class="text-muted">&copy; {{ date('Y') }} Task Management System | Developed by <a
+                        href="https://github.com/ICT-PPDO/TaskManagementSystem" target="_blank">ICT-PPDO</a> </span>
             </div>
         </footer>
     </div>
